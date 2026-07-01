@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayisha Hamna</h1>
 
 <h3 align="center">
-📊 Data Analyst Aspirant | 📈 Power BI Enthusiast | 📚 Data Visualization Learner
+📊 Data Analyst Aspirant | 📈 Power BI Enthusiast | 📚 Data Visualization Learner 
+
+  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+Tableau;Learning+Something+New+Every+Day!" />
+
+</div>
+
+---
 </h3>
 
 <p align="center">
@@ -52,7 +59,7 @@ Passionate about transforming raw data into meaningful insights through analytic
 
 ---
 
-## 📈 GitHub Statistics
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aishazeez&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
